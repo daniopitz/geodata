@@ -6,6 +6,17 @@
 <strong>Miércoles · 2 bloques · 4 marzo — 1 julio 2026</strong>
 </p>
 
+---
+
+## Instalación del entorno
+
+Este proyecto usa [uv](https://docs.astral.sh/uv/) para gestionar paquetes y dependencias. Para instalar el entorno local, ejecuta:
+
+```bash
+uv sync
+```
+
+Esto creará un entorno virtual e instalará todas las dependencias especificadas en `pyproject.toml`.
 
 ---
 
