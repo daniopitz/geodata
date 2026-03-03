@@ -8,18 +8,6 @@
 
 ---
 
-## Instalación del entorno
-
-Este proyecto usa [uv](https://docs.astral.sh/uv/) para gestionar paquetes y dependencias. Para instalar el entorno local, ejecuta:
-
-```bash
-uv sync
-```
-
-Esto creará un entorno virtual e instalará todas las dependencias especificadas en `pyproject.toml`.
-
----
-
 ## Calendario de clases
 
 | Sem | Fecha | Tipo | Contenido | Clase Teórica | Jupyter | Evaluación |
@@ -76,5 +64,15 @@ T  = (T1 + T2) / 2
 P  = mejores 6 sesiones prácticas de 8
 ```
 
+
 ---
 
+## Instalación del entorno
+
+Este proyecto usa [uv](https://docs.astral.sh/uv/) para gestionar paquetes y dependencias. Para instalar el entorno local, ejecuta:
+
+```bash
+uv sync
+```
+
+Esto creará un entorno virtual e instalará todas las dependencias especificadas en `pyproject.toml`.
