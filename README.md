@@ -12,7 +12,7 @@
 
 | Sem | Fecha | Tipo | Contenido | Clase Teórica | Jupyter | Evaluación |
 |-----|-------|------|-----------|---------------|---------|------------|
-| 1 | 4 mar | Teórica | Introducción: datos espaciales, tipos (vector), sistemas de referencia, tablas y geopandas. Fuentes de datos para el proyecto. | `00_introduccion.pdf` | `00_introduccion.ipynb` | |
+| 1 | 4 mar | Teórica | Introducción: datos espaciales, tipos (vector), sistemas de referencia, tablas y geopandas. Fuentes de datos para el proyecto. | `00_introduccion.pdf` | [00_introduccion.ipynb](https://github.com/daniopitz/geodata/tree/main/00_introduccion.ipynb) | |
 | 2 | 11 mar | Teórica + Práctica | Datos raster + matrices de pesos espaciales + práctica en Python | `02_raster_pesos.pdf` | `02_raster_pesos.ipynb` | P |
 | 3 | 18 mar | — | **Sin clases — Semana Mechona** | — | — | |
 | 4 | 25 mar | Teórica + Práctica | Visualización I: mapas coropléticos y símbolos proporcionales + práctica | `03_visualizacion_I.pdf` | `03_visualizacion_I.ipynb` | P |
@@ -61,7 +61,7 @@ Nota Final = 0.5 × PF + 0.4 × T + 0.1 × P
 
 PF = 0.15 × H1 + 0.25 × H2 + 0.60 × H3
 T  = (T1 + T2) / 2
-P  = mejores 6 sesiones prácticas de 8
+P  = mejores 5 sesiones prácticas de 8
 ```
 
 
