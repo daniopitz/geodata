@@ -12,8 +12,8 @@
 
 | Sem | Fecha | Tipo | Contenido | Clase Teórica | Jupyter | Evaluación |
 |-----|-------|------|-----------|---------------|---------|------------|
-| 1 | 4 mar | Teórica | Introducción: datos espaciales, tipos (vector), sistemas de referencia, tablas y geopandas. Fuentes de datos para el proyecto. | `00_introduccion.pdf` | [00_introduccion.ipynb](https://github.com/daniopitz/geodata/tree/main/00_introduccion.ipynb) | |
-| 2 | 11 mar | Teórica + Práctica | Datos raster + matrices de pesos espaciales + práctica en Python | `02_raster_pesos.pdf` | `02_raster_pesos.ipynb` | P |
+| 1 | 4 mar | Teórica | Introducción: datos espaciales, tipos (vector), sistemas de referencia, tablas y geopandas. Fuentes de datos para el proyecto. | [00_introduccion.pdf](https://github.com/daniopitz/geodata/tree/main/00_introduccion.pdf) | [00_introduccion.ipynb](https://github.com/daniopitz/geodata/tree/main/00_introduccion.ipynb) | |
+| 2 | 11 mar | Teórica + Práctica | Datos raster + matrices de pesos espaciales + práctica en Python | [01_datos_espaciales.pdf](https://github.com/daniopitz/geodata/tree/main/01_datos_espaciales.pdf) | [01_datos_espaciales.ipynb](https://github.com/daniopitz/geodata/tree/main/01_datos_espaciales.ipynb) | P |
 | 3 | 18 mar | — | **Sin clases — Semana Mechona** | — | — | |
 | 4 | 25 mar | Teórica + Práctica | Visualización I: mapas coropléticos y símbolos proporcionales + práctica | `03_visualizacion_I.pdf` | `03_visualizacion_I.ipynb` | P |
 | 5 | 1 abr | Teórica + Práctica | Visualización II: densidad kernel + práctica en Python | `04_visualizacion_II.pdf` | `04_visualizacion_II.ipynb` | P |
