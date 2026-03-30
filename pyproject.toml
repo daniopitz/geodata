@@ -12,6 +12,7 @@ dependencies = [
     "geopandas==0.14.4",
     "jupyter>=1.1.1",
     "libpysal>=4.14.1",
+    "mapclassify>=2.10.0",
     "matplotlib==3.10.1",
     "pandas==2.2.3",
     "rasterstats>=0.20.0",
