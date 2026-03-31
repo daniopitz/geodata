@@ -15,7 +15,7 @@
 | 1 | 4 mar | Teórica | Introducción: datos espaciales, tipos (vector), sistemas de referencia, tablas y geopandas. Fuentes de datos para el proyecto. | [00_introduccion.pdf](https://github.com/daniopitz/geodata/tree/main/00_introduccion.pdf) | [00_introduccion.ipynb](https://github.com/daniopitz/geodata/tree/main/00_introduccion.ipynb) | |
 | 2 | 11 mar | Teórica + Práctica | Datos raster + matrices de pesos espaciales + práctica en Python | [01_datos_espaciales.pdf](https://github.com/daniopitz/geodata/tree/main/01_datos_espaciales.pdf) | [01_datos_espaciales.ipynb](https://github.com/daniopitz/geodata/tree/main/01_datos_espaciales.ipynb) | P |
 | 3 | 18 mar | — | **Sin clases — Semana Mechona** | — | — | |
-| 4 | 25 mar | Teórica + Práctica | Pesos Espaciales| `02_pesos_espaciales.pdf` | `02_pesos_espaciales.ipynb` | P |
+| 4 | 25 mar | Teórica + Práctica | Pesos Espaciales| [02_pesos_espaciales.pdf](https://github.com/daniopitz/geodata/tree/main/02_pesos_espaciales.pdf)| [02_pesos_espaciales.ipynb](https://github.com/daniopitz/geodata/tree/main/02_pesos_espaciales.ipynb) | P |
 | 5 | 1 abr | Teórica + Práctica | Visualización I: Mapas Coropleticos| `03_visualizacion_parte1.pdf` | `03_visualizacion_parte1.ipynb` | P |
 | 6 | 8 abr | Teórica | Autocorrelación espacial global y local | `04_autocorrelacion.pdf` | — | **H1 entrega** |
 | 7 | 15 abr | Práctica | Cálculo e interpretación de índices de Moran y LISA | — | `05_autocorrelacion.ipynb` | P |
