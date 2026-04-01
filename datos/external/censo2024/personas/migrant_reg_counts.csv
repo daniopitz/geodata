@@ -1,0 +1,654 @@
+CODIGO_PAIS,Nº_MIGRANTES,CONTINENTE,COMUNA
+2,90,África,Santiago
+2,4,África,Cerrillos
+2,13,África,Cerro Navia
+2,5,África,Conchalí
+2,4,África,El Bosque
+2,22,África,Estación Central
+2,1,África,Huechuraba
+2,31,África,Independencia
+2,8,África,La Cisterna
+2,24,África,La Florida
+2,5,África,La Granja
+2,5,África,La Pintana
+2,7,África,La Reina
+2,87,África,Las Condes
+2,31,África,Lo Barnechea
+2,1,África,Lo Espejo
+2,5,África,Lo Prado
+2,19,África,Macul
+2,18,África,Maipú
+2,54,África,Ñuñoa
+2,2,África,Pedro Aguirre Cerda
+2,9,África,Peñalolén
+2,33,África,Providencia
+2,15,África,Pudahuel
+2,10,África,Quilicura
+2,5,África,Quinta Normal
+2,18,África,Recoleta
+2,15,África,Renca
+2,6,África,San Joaquín
+2,11,África,San Miguel
+2,2,África,San Ramón
+2,19,África,Vitacura
+2,24,África,Puente Alto
+2,2,África,Pirque
+2,2,África,San José de Maipo
+2,30,África,Colina
+2,2,África,Lampa
+2,1,África,Tiltil
+2,22,África,San Bernardo
+2,5,África,Buin
+2,2,África,Calera de Tango
+2,7,África,Paine
+2,5,África,Melipilla
+2,3,África,Curacaví
+2,2,África,María Pinto
+2,4,África,Talagante
+2,2,África,El Monte
+2,5,África,Isla de Maipo
+2,6,África,Padre Hurtado
+2,1,África,Peñaflor
+5,5888,Otros países de América del Sur,Santiago
+5,487,Otros países de América del Sur,Cerrillos
+5,580,Otros países de América del Sur,Cerro Navia
+5,672,Otros países de América del Sur,Conchalí
+5,451,Otros países de América del Sur,El Bosque
+5,2259,Otros países de América del Sur,Estación Central
+5,547,Otros países de América del Sur,Huechuraba
+5,1892,Otros países de América del Sur,Independencia
+5,587,Otros países de América del Sur,La Cisterna
+5,1617,Otros países de América del Sur,La Florida
+5,340,Otros países de América del Sur,La Granja
+5,453,Otros países de América del Sur,La Pintana
+5,357,Otros países de América del Sur,La Reina
+5,2468,Otros países de América del Sur,Las Condes
+5,752,Otros países de América del Sur,Lo Barnechea
+5,243,Otros países de América del Sur,Lo Espejo
+5,529,Otros países de América del Sur,Lo Prado
+5,580,Otros países de América del Sur,Macul
+5,2079,Otros países de América del Sur,Maipú
+5,1448,Otros países de América del Sur,Ñuñoa
+5,280,Otros países de América del Sur,Pedro Aguirre Cerda
+5,1014,Otros países de América del Sur,Peñalolén
+5,1107,Otros países de América del Sur,Providencia
+5,1066,Otros países de América del Sur,Pudahuel
+5,809,Otros países de América del Sur,Quilicura
+5,1399,Otros países de América del Sur,Quinta Normal
+5,1550,Otros países de América del Sur,Recoleta
+5,505,Otros países de América del Sur,Renca
+5,611,Otros países de América del Sur,San Joaquín
+5,919,Otros países de América del Sur,San Miguel
+5,216,Otros países de América del Sur,San Ramón
+5,680,Otros países de América del Sur,Vitacura
+5,1831,Otros países de América del Sur,Puente Alto
+5,40,Otros países de América del Sur,Pirque
+5,44,Otros países de América del Sur,San José de Maipo
+5,1489,Otros países de América del Sur,Colina
+5,840,Otros países de América del Sur,Lampa
+5,117,Otros países de América del Sur,Tiltil
+5,1107,Otros países de América del Sur,San Bernardo
+5,472,Otros países de América del Sur,Buin
+5,50,Otros países de América del Sur,Calera de Tango
+5,308,Otros países de América del Sur,Paine
+5,279,Otros países de América del Sur,Melipilla
+5,52,Otros países de América del Sur,Alhué
+5,82,Otros países de América del Sur,Curacaví
+5,20,Otros países de América del Sur,María Pinto
+5,34,Otros países de América del Sur,San Pedro
+5,309,Otros países de América del Sur,Talagante
+5,81,Otros países de América del Sur,El Monte
+5,59,Otros países de América del Sur,Isla de Maipo
+5,310,Otros países de América del Sur,Padre Hurtado
+5,298,Otros países de América del Sur,Peñaflor
+9,17,Oceanía,Santiago
+9,1,Oceanía,Cerrillos
+9,1,Oceanía,Cerro Navia
+9,3,Oceanía,El Bosque
+9,7,Oceanía,Estación Central
+9,4,Oceanía,Huechuraba
+9,2,Oceanía,Independencia
+9,6,Oceanía,La Florida
+9,1,Oceanía,La Granja
+9,22,Oceanía,La Reina
+9,91,Oceanía,Las Condes
+9,45,Oceanía,Lo Barnechea
+9,6,Oceanía,Macul
+9,2,Oceanía,Maipú
+9,24,Oceanía,Ñuñoa
+9,7,Oceanía,Peñalolén
+9,34,Oceanía,Providencia
+9,1,Oceanía,Quilicura
+9,4,Oceanía,Quinta Normal
+9,3,Oceanía,Recoleta
+9,1,Oceanía,Renca
+9,1,Oceanía,San Joaquín
+9,1,Oceanía,San Miguel
+9,44,Oceanía,Vitacura
+9,2,Oceanía,Puente Alto
+9,2,Oceanía,Pirque
+9,16,Oceanía,Colina
+9,2,Oceanía,Lampa
+9,3,Oceanía,San Bernardo
+9,3,Oceanía,Calera de Tango
+9,3,Oceanía,Paine
+9,5,Oceanía,Melipilla
+9,5,Oceanía,Curacaví
+9,4,Oceanía,Talagante
+9,2,Oceanía,Peñaflor
+13,3972,Otros países de América Central y El Caribe,Santiago
+13,267,Otros países de América Central y El Caribe,Cerrillos
+13,396,Otros países de América Central y El Caribe,Cerro Navia
+13,670,Otros países de América Central y El Caribe,Conchalí
+13,184,Otros países de América Central y El Caribe,El Bosque
+13,1294,Otros países de América Central y El Caribe,Estación Central
+13,282,Otros países de América Central y El Caribe,Huechuraba
+13,1621,Otros países de América Central y El Caribe,Independencia
+13,227,Otros países de América Central y El Caribe,La Cisterna
+13,765,Otros países de América Central y El Caribe,La Florida
+13,210,Otros países de América Central y El Caribe,La Granja
+13,157,Otros países de América Central y El Caribe,La Pintana
+13,199,Otros países de América Central y El Caribe,La Reina
+13,1116,Otros países de América Central y El Caribe,Las Condes
+13,441,Otros países de América Central y El Caribe,Lo Barnechea
+13,109,Otros países de América Central y El Caribe,Lo Espejo
+13,272,Otros países de América Central y El Caribe,Lo Prado
+13,372,Otros países de América Central y El Caribe,Macul
+13,560,Otros países de América Central y El Caribe,Maipú
+13,998,Otros países de América Central y El Caribe,Ñuñoa
+13,167,Otros países de América Central y El Caribe,Pedro Aguirre Cerda
+13,470,Otros países de América Central y El Caribe,Peñalolén
+13,681,Otros países de América Central y El Caribe,Providencia
+13,346,Otros países de América Central y El Caribe,Pudahuel
+13,428,Otros países de América Central y El Caribe,Quilicura
+13,601,Otros países de América Central y El Caribe,Quinta Normal
+13,1042,Otros países de América Central y El Caribe,Recoleta
+13,491,Otros países de América Central y El Caribe,Renca
+13,263,Otros países de América Central y El Caribe,San Joaquín
+13,480,Otros países de América Central y El Caribe,San Miguel
+13,118,Otros países de América Central y El Caribe,San Ramón
+13,237,Otros países de América Central y El Caribe,Vitacura
+13,647,Otros países de América Central y El Caribe,Puente Alto
+13,17,Otros países de América Central y El Caribe,Pirque
+13,5,Otros países de América Central y El Caribe,San José de Maipo
+13,1193,Otros países de América Central y El Caribe,Colina
+13,290,Otros países de América Central y El Caribe,Lampa
+13,23,Otros países de América Central y El Caribe,Tiltil
+13,325,Otros países de América Central y El Caribe,San Bernardo
+13,106,Otros países de América Central y El Caribe,Buin
+13,26,Otros países de América Central y El Caribe,Calera de Tango
+13,46,Otros países de América Central y El Caribe,Paine
+13,177,Otros países de América Central y El Caribe,Melipilla
+13,3,Otros países de América Central y El Caribe,Alhué
+13,62,Otros países de América Central y El Caribe,Curacaví
+13,5,Otros países de América Central y El Caribe,María Pinto
+13,142,Otros países de América Central y El Caribe,Talagante
+13,28,Otros países de América Central y El Caribe,El Monte
+13,20,Otros países de América Central y El Caribe,Isla de Maipo
+13,94,Otros países de América Central y El Caribe,Padre Hurtado
+13,138,Otros países de América Central y El Caribe,Peñaflor
+21,171,América del Norte,Santiago
+21,14,América del Norte,Cerrillos
+21,2,América del Norte,Cerro Navia
+21,11,América del Norte,Conchalí
+21,8,América del Norte,El Bosque
+21,31,América del Norte,Estación Central
+21,28,América del Norte,Huechuraba
+21,14,América del Norte,Independencia
+21,14,América del Norte,La Cisterna
+21,75,América del Norte,La Florida
+21,11,América del Norte,La Granja
+21,7,América del Norte,La Pintana
+21,99,América del Norte,La Reina
+21,528,América del Norte,Las Condes
+21,471,América del Norte,Lo Barnechea
+21,8,América del Norte,Lo Espejo
+21,5,América del Norte,Lo Prado
+21,20,América del Norte,Macul
+21,64,América del Norte,Maipú
+21,183,América del Norte,Ñuñoa
+21,12,América del Norte,Pedro Aguirre Cerda
+21,72,América del Norte,Peñalolén
+21,278,América del Norte,Providencia
+21,28,América del Norte,Pudahuel
+21,18,América del Norte,Quilicura
+21,17,América del Norte,Quinta Normal
+21,30,América del Norte,Recoleta
+21,8,América del Norte,Renca
+21,7,América del Norte,San Joaquín
+21,40,América del Norte,San Miguel
+21,2,América del Norte,San Ramón
+21,249,América del Norte,Vitacura
+21,31,América del Norte,Puente Alto
+21,7,América del Norte,Pirque
+21,11,América del Norte,San José de Maipo
+21,114,América del Norte,Colina
+21,22,América del Norte,Lampa
+21,4,América del Norte,Tiltil
+21,27,América del Norte,San Bernardo
+21,21,América del Norte,Buin
+21,6,América del Norte,Calera de Tango
+21,8,América del Norte,Paine
+21,14,América del Norte,Melipilla
+21,11,América del Norte,Curacaví
+21,1,América del Norte,María Pinto
+21,19,América del Norte,Talagante
+21,4,América del Norte,El Monte
+21,10,América del Norte,Isla de Maipo
+21,13,América del Norte,Padre Hurtado
+21,9,América del Norte,Peñaflor
+32,1395,Argentina,Santiago
+32,79,Argentina,Cerrillos
+32,160,Argentina,Cerro Navia
+32,168,Argentina,Conchalí
+32,135,Argentina,El Bosque
+32,285,Argentina,Estación Central
+32,496,Argentina,Huechuraba
+32,215,Argentina,Independencia
+32,170,Argentina,La Cisterna
+32,613,Argentina,La Florida
+32,121,Argentina,La Granja
+32,176,Argentina,La Pintana
+32,359,Argentina,La Reina
+32,3731,Argentina,Las Condes
+32,1461,Argentina,Lo Barnechea
+32,106,Argentina,Lo Espejo
+32,101,Argentina,Lo Prado
+32,244,Argentina,Macul
+32,487,Argentina,Maipú
+32,1177,Argentina,Ñuñoa
+32,92,Argentina,Pedro Aguirre Cerda
+32,476,Argentina,Peñalolén
+32,1339,Argentina,Providencia
+32,278,Argentina,Pudahuel
+32,345,Argentina,Quilicura
+32,160,Argentina,Quinta Normal
+32,288,Argentina,Recoleta
+32,142,Argentina,Renca
+32,152,Argentina,San Joaquín
+32,269,Argentina,San Miguel
+32,68,Argentina,San Ramón
+32,1099,Argentina,Vitacura
+32,529,Argentina,Puente Alto
+32,42,Argentina,Pirque
+32,23,Argentina,San José de Maipo
+32,1358,Argentina,Colina
+32,260,Argentina,Lampa
+32,38,Argentina,Tiltil
+32,346,Argentina,San Bernardo
+32,117,Argentina,Buin
+32,43,Argentina,Calera de Tango
+32,88,Argentina,Paine
+32,140,Argentina,Melipilla
+32,10,Argentina,Alhué
+32,62,Argentina,Curacaví
+32,20,Argentina,María Pinto
+32,11,Argentina,San Pedro
+32,67,Argentina,Talagante
+32,18,Argentina,El Monte
+32,48,Argentina,Isla de Maipo
+32,79,Argentina,Padre Hurtado
+32,108,Argentina,Peñaflor
+68,2897,Bolivia,Santiago
+68,251,Bolivia,Cerrillos
+68,318,Bolivia,Cerro Navia
+68,589,Bolivia,Conchalí
+68,253,Bolivia,El Bosque
+68,1161,Bolivia,Estación Central
+68,249,Bolivia,Huechuraba
+68,868,Bolivia,Independencia
+68,247,Bolivia,La Cisterna
+68,572,Bolivia,La Florida
+68,144,Bolivia,La Granja
+68,235,Bolivia,La Pintana
+68,176,Bolivia,La Reina
+68,561,Bolivia,Las Condes
+68,381,Bolivia,Lo Barnechea
+68,108,Bolivia,Lo Espejo
+68,328,Bolivia,Lo Prado
+68,196,Bolivia,Macul
+68,514,Bolivia,Maipú
+68,339,Bolivia,Ñuñoa
+68,158,Bolivia,Pedro Aguirre Cerda
+68,414,Bolivia,Peñalolén
+68,249,Bolivia,Providencia
+68,436,Bolivia,Pudahuel
+68,439,Bolivia,Quilicura
+68,391,Bolivia,Quinta Normal
+68,2943,Bolivia,Recoleta
+68,267,Bolivia,Renca
+68,279,Bolivia,San Joaquín
+68,348,Bolivia,San Miguel
+68,117,Bolivia,San Ramón
+68,126,Bolivia,Vitacura
+68,510,Bolivia,Puente Alto
+68,16,Bolivia,Pirque
+68,18,Bolivia,San José de Maipo
+68,2915,Bolivia,Colina
+68,631,Bolivia,Lampa
+68,133,Bolivia,Tiltil
+68,261,Bolivia,San Bernardo
+68,359,Bolivia,Buin
+68,60,Bolivia,Calera de Tango
+68,1812,Bolivia,Paine
+68,4751,Bolivia,Melipilla
+68,343,Bolivia,Alhué
+68,23,Bolivia,Curacaví
+68,68,Bolivia,María Pinto
+68,808,Bolivia,San Pedro
+68,147,Bolivia,Talagante
+68,46,Bolivia,El Monte
+68,467,Bolivia,Isla de Maipo
+68,79,Bolivia,Padre Hurtado
+68,115,Bolivia,Peñaflor
+142,3174,Asia,Santiago
+142,42,Asia,Cerrillos
+142,47,Asia,Cerro Navia
+142,58,Asia,Conchalí
+142,99,Asia,El Bosque
+142,229,Asia,Estación Central
+142,109,Asia,Huechuraba
+142,96,Asia,Independencia
+142,73,Asia,La Cisterna
+142,263,Asia,La Florida
+142,63,Asia,La Granja
+142,53,Asia,La Pintana
+142,117,Asia,La Reina
+142,1782,Asia,Las Condes
+142,673,Asia,Lo Barnechea
+142,23,Asia,Lo Espejo
+142,22,Asia,Lo Prado
+142,129,Asia,Macul
+142,449,Asia,Maipú
+142,395,Asia,Ñuñoa
+142,38,Asia,Pedro Aguirre Cerda
+142,150,Asia,Peñalolén
+142,643,Asia,Providencia
+142,147,Asia,Pudahuel
+142,144,Asia,Quilicura
+142,90,Asia,Quinta Normal
+142,414,Asia,Recoleta
+142,41,Asia,Renca
+142,73,Asia,San Joaquín
+142,145,Asia,San Miguel
+142,43,Asia,San Ramón
+142,468,Asia,Vitacura
+142,359,Asia,Puente Alto
+142,6,Asia,Pirque
+142,6,Asia,San José de Maipo
+142,157,Asia,Colina
+142,76,Asia,Lampa
+142,4,Asia,Tiltil
+142,207,Asia,San Bernardo
+142,48,Asia,Buin
+142,10,Asia,Calera de Tango
+142,32,Asia,Paine
+142,34,Asia,Melipilla
+142,2,Asia,Alhué
+142,9,Asia,Curacaví
+142,3,Asia,María Pinto
+142,48,Asia,Talagante
+142,19,Asia,El Monte
+142,14,Asia,Isla de Maipo
+142,46,Asia,Padre Hurtado
+142,33,Asia,Peñaflor
+150,1052,Europa,Santiago
+150,30,Europa,Cerrillos
+150,9,Europa,Cerro Navia
+150,26,Europa,Conchalí
+150,28,Europa,El Bosque
+150,105,Europa,Estación Central
+150,194,Europa,Huechuraba
+150,90,Europa,Independencia
+150,82,Europa,La Cisterna
+150,316,Europa,La Florida
+150,29,Europa,La Granja
+150,13,Europa,La Pintana
+150,410,Europa,La Reina
+150,2888,Europa,Las Condes
+150,923,Europa,Lo Barnechea
+150,12,Europa,Lo Espejo
+150,22,Europa,Lo Prado
+150,170,Europa,Macul
+150,181,Europa,Maipú
+150,1140,Europa,Ñuñoa
+150,31,Europa,Pedro Aguirre Cerda
+150,271,Europa,Peñalolén
+150,1737,Europa,Providencia
+150,59,Europa,Pudahuel
+150,65,Europa,Quilicura
+150,44,Europa,Quinta Normal
+150,107,Europa,Recoleta
+150,18,Europa,Renca
+150,56,Europa,San Joaquín
+150,183,Europa,San Miguel
+150,16,Europa,San Ramón
+150,1544,Europa,Vitacura
+150,150,Europa,Puente Alto
+150,44,Europa,Pirque
+150,29,Europa,San José de Maipo
+150,460,Europa,Colina
+150,92,Europa,Lampa
+150,19,Europa,Tiltil
+150,91,Europa,San Bernardo
+150,88,Europa,Buin
+150,18,Europa,Calera de Tango
+150,46,Europa,Paine
+150,66,Europa,Melipilla
+150,3,Europa,Alhué
+150,47,Europa,Curacaví
+150,3,Europa,María Pinto
+150,3,Europa,San Pedro
+150,57,Europa,Talagante
+150,18,Europa,El Monte
+150,28,Europa,Isla de Maipo
+150,32,Europa,Padre Hurtado
+150,36,Europa,Peñaflor
+170,20363,Colombia,Santiago
+170,1702,Colombia,Cerrillos
+170,1581,Colombia,Cerro Navia
+170,1805,Colombia,Conchalí
+170,1126,Colombia,El Bosque
+170,8529,Colombia,Estación Central
+170,1100,Colombia,Huechuraba
+170,6968,Colombia,Independencia
+170,2152,Colombia,La Cisterna
+170,3741,Colombia,La Florida
+170,1194,Colombia,La Granja
+170,912,Colombia,La Pintana
+170,473,Colombia,La Reina
+170,2179,Colombia,Las Condes
+170,907,Colombia,Lo Barnechea
+170,636,Colombia,Lo Espejo
+170,2226,Colombia,Lo Prado
+170,1779,Colombia,Macul
+170,3678,Colombia,Maipú
+170,2633,Colombia,Ñuñoa
+170,1019,Colombia,Pedro Aguirre Cerda
+170,2359,Colombia,Peñalolén
+170,1111,Colombia,Providencia
+170,2414,Colombia,Pudahuel
+170,2285,Colombia,Quilicura
+170,5160,Colombia,Quinta Normal
+170,2763,Colombia,Recoleta
+170,1493,Colombia,Renca
+170,1571,Colombia,San Joaquín
+170,3914,Colombia,San Miguel
+170,536,Colombia,San Ramón
+170,518,Colombia,Vitacura
+170,3824,Colombia,Puente Alto
+170,51,Colombia,Pirque
+170,105,Colombia,San José de Maipo
+170,2889,Colombia,Colina
+170,1745,Colombia,Lampa
+170,127,Colombia,Tiltil
+170,1479,Colombia,San Bernardo
+170,577,Colombia,Buin
+170,94,Colombia,Calera de Tango
+170,221,Colombia,Paine
+170,630,Colombia,Melipilla
+170,31,Colombia,Alhué
+170,118,Colombia,Curacaví
+170,28,Colombia,María Pinto
+170,23,Colombia,San Pedro
+170,506,Colombia,Talagante
+170,106,Colombia,El Monte
+170,143,Colombia,Isla de Maipo
+170,617,Colombia,Padre Hurtado
+170,499,Colombia,Peñaflor
+332,2188,Haití,Santiago
+332,4057,Haití,Cerrillos
+332,1664,Haití,Cerro Navia
+332,1087,Haití,Conchalí
+332,1792,Haití,El Bosque
+332,2854,Haití,Estación Central
+332,318,Haití,Huechuraba
+332,833,Haití,Independencia
+332,539,Haití,La Cisterna
+332,1050,Haití,La Florida
+332,763,Haití,La Granja
+332,1206,Haití,La Pintana
+332,117,Haití,La Reina
+332,39,Haití,Las Condes
+332,68,Haití,Lo Barnechea
+332,2305,Haití,Lo Espejo
+332,661,Haití,Lo Prado
+332,202,Haití,Macul
+332,3150,Haití,Maipú
+332,89,Haití,Ñuñoa
+332,2364,Haití,Pedro Aguirre Cerda
+332,681,Haití,Peñalolén
+332,42,Haití,Providencia
+332,936,Haití,Pudahuel
+332,8069,Haití,Quilicura
+332,1183,Haití,Quinta Normal
+332,1637,Haití,Recoleta
+332,1428,Haití,Renca
+332,495,Haití,San Joaquín
+332,275,Haití,San Miguel
+332,736,Haití,San Ramón
+332,10,Haití,Vitacura
+332,2695,Haití,Puente Alto
+332,30,Haití,Pirque
+332,43,Haití,San José de Maipo
+332,2150,Haití,Colina
+332,2382,Haití,Lampa
+332,135,Haití,Tiltil
+332,4596,Haití,San Bernardo
+332,513,Haití,Buin
+332,181,Haití,Calera de Tango
+332,666,Haití,Paine
+332,1291,Haití,Melipilla
+332,60,Haití,Alhué
+332,138,Haití,Curacaví
+332,22,Haití,María Pinto
+332,111,Haití,San Pedro
+332,650,Haití,Talagante
+332,158,Haití,El Monte
+332,98,Haití,Isla de Maipo
+332,262,Haití,Padre Hurtado
+332,229,Haití,Peñaflor
+604,31884,Perú,Santiago
+604,2337,Perú,Cerrillos
+604,3859,Perú,Cerro Navia
+604,6736,Perú,Conchalí
+604,1407,Perú,El Bosque
+604,8318,Perú,Estación Central
+604,1604,Perú,Huechuraba
+604,13416,Perú,Independencia
+604,1518,Perú,La Cisterna
+604,4963,Perú,La Florida
+604,1877,Perú,La Granja
+604,1963,Perú,La Pintana
+604,902,Perú,La Reina
+604,3094,Perú,Las Condes
+604,2098,Perú,Lo Barnechea
+604,937,Perú,Lo Espejo
+604,4136,Perú,Lo Prado
+604,1970,Perú,Macul
+604,3874,Perú,Maipú
+604,1974,Perú,Ñuñoa
+604,1588,Perú,Pedro Aguirre Cerda
+604,5611,Perú,Peñalolén
+604,1417,Perú,Providencia
+604,3381,Perú,Pudahuel
+604,4094,Perú,Quilicura
+604,7490,Perú,Quinta Normal
+604,15014,Perú,Recoleta
+604,3430,Perú,Renca
+604,2627,Perú,San Joaquín
+604,2290,Perú,San Miguel
+604,1293,Perú,San Ramón
+604,949,Perú,Vitacura
+604,4871,Perú,Puente Alto
+604,65,Perú,Pirque
+604,36,Perú,San José de Maipo
+604,3473,Perú,Colina
+604,3241,Perú,Lampa
+604,113,Perú,Tiltil
+604,2067,Perú,San Bernardo
+604,467,Perú,Buin
+604,108,Perú,Calera de Tango
+604,379,Perú,Paine
+604,577,Perú,Melipilla
+604,209,Perú,Alhué
+604,144,Perú,Curacaví
+604,28,Perú,María Pinto
+604,136,Perú,San Pedro
+604,291,Perú,Talagante
+604,105,Perú,El Monte
+604,81,Perú,Isla de Maipo
+604,485,Perú,Padre Hurtado
+604,351,Perú,Peñaflor
+862,99601,Venezuela,Santiago
+862,2929,Venezuela,Cerrillos
+862,3595,Venezuela,Cerro Navia
+862,5201,Venezuela,Conchalí
+862,5143,Venezuela,El Bosque
+862,43642,Venezuela,Estación Central
+862,3436,Venezuela,Huechuraba
+862,24953,Venezuela,Independencia
+862,13544,Venezuela,La Cisterna
+862,19899,Venezuela,La Florida
+862,4198,Venezuela,La Granja
+862,2546,Venezuela,La Pintana
+862,1696,Venezuela,La Reina
+862,5556,Venezuela,Las Condes
+862,1078,Venezuela,Lo Barnechea
+862,2017,Venezuela,Lo Espejo
+862,3796,Venezuela,Lo Prado
+862,10539,Venezuela,Macul
+862,13261,Venezuela,Maipú
+862,18779,Venezuela,Ñuñoa
+862,3337,Venezuela,Pedro Aguirre Cerda
+862,6764,Venezuela,Peñalolén
+862,3994,Venezuela,Providencia
+862,6218,Venezuela,Pudahuel
+862,9496,Venezuela,Quilicura
+862,18497,Venezuela,Quinta Normal
+862,7364,Venezuela,Recoleta
+862,4036,Venezuela,Renca
+862,7301,Venezuela,San Joaquín
+862,28786,Venezuela,San Miguel
+862,2743,Venezuela,San Ramón
+862,638,Venezuela,Vitacura
+862,11228,Venezuela,Puente Alto
+862,120,Venezuela,Pirque
+862,329,Venezuela,San José de Maipo
+862,4198,Venezuela,Colina
+862,8176,Venezuela,Lampa
+862,331,Venezuela,Tiltil
+862,7624,Venezuela,San Bernardo
+862,2635,Venezuela,Buin
+862,225,Venezuela,Calera de Tango
+862,1360,Venezuela,Paine
+862,2666,Venezuela,Melipilla
+862,166,Venezuela,Alhué
+862,541,Venezuela,Curacaví
+862,119,Venezuela,María Pinto
+862,119,Venezuela,San Pedro
+862,1963,Venezuela,Talagante
+862,330,Venezuela,El Monte
+862,351,Venezuela,Isla de Maipo
+862,2805,Venezuela,Padre Hurtado
+862,1414,Venezuela,Peñaflor

@@ -2,3 +2,4 @@
 .DS_Store
 **/.DS_Store
 *.pptx
+datos/external/censo2024/personas/part-0.parquet
