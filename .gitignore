@@ -2,4 +2,5 @@
 .DS_Store
 **/.DS_Store
 *.pptx
+04_autocorrelacion_global_back.ipynb
 datos/external/censo2024/personas/part-0.parquet
