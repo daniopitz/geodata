@@ -4,3 +4,5 @@
 *.pptx
 04_autocorrelacion_global_back.ipynb
 datos/external/censo2024/personas/part-0.parquet
+actividades/06_actividad6_solucion.ipynb
+.claude/
