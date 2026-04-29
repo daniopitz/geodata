@@ -6,3 +6,6 @@
 datos/external/censo2024/personas/part-0.parquet
 actividades/06_actividad6_solucion.ipynb
 .claude/
+# Notas y datos privados de estudiantes
+notas.xlsx
+*notas*.xlsx
