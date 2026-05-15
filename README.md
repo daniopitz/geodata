@@ -29,7 +29,7 @@
 | 15 | 10 jun | Práctica | Implementación SAR, SEM y GWR en Python | — | `09_regresion_espacial.ipynb` | **H2 entrega** |
 | 16 | 17 jun | Teórica | GWR + integración de contenidos | `10_GWR.pdf` | — | |
 | 17 | 24 jun | Teórica | Preparación presentaciones | — | — | **T1 entrega** |
-| 18 | 1 jul | Evaluación | Presentaciones orales + entrega informe final | — | — | **H3 entrega final** |
+| 18 | 1 jul | Evaluación | Presentaciones orales + entrega informe final | — | — | **H3 entrega final** · T2 (voluntaria) |
 
 ---
 
@@ -40,7 +40,7 @@
 | H1 Proyecto | 8 abril | 15% del PF |
 | H2 Proyecto | 10 junio | 25% del PF |
 | T1 Tarea | 24 junio | 50% de T |
-| T2 Tarea | 3 junio | 50% de T |
+| T2 Tarea (voluntaria) | 1 julio | 50% de T |
 | H3 + Informe final | 1 julio | 60% del PF |
 | Participación (P) | Semanas 2, 4, 5, 7, 10, 11, 13, 15 | mejores 5 de 8 |
 
@@ -60,7 +60,7 @@ Se evaluarán **8 sesiones prácticas** a lo largo del semestre. El objetivo es 
 Nota Final = 0.5 × PF + 0.4 × T + 0.1 × P
 
 PF = 0.15 × H1 + 0.25 × H2 + 0.60 × H3
-T  = (T1 + T2) / 2
+T  = max(T1, T2)   # T2 es voluntaria; reemplaza a T1 si es mayor
 P  = mejores 5 sesiones prácticas de 8
 ```
 
