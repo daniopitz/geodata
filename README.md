@@ -25,10 +25,10 @@
 | 11 | 13 may | Teórica + Práctica | Regresión espacial (Parte 1): OLS, diagnóstico de residuos y SLX | [08_regresion_espacial.pdf](https://github.com/daniopitz/geodata/tree/main/08_regresion_espacial.pdf) | [08_regresion_espacial.ipynb](https://github.com/daniopitz/geodata/tree/main/08_regresion_espacial.ipynb) | P |
 | 12 | 20 may |  — | **Sin Clases Vacaciones**|  — | — |
 | 13 | 27 may | Teórica + Práctica | Regresión espacial (Parte 2): SEM, SAR y heterogeneidad espacial | `09_regresion_espacial_parte2.pdf` | `09_regresion_espacial_parte2.ipynb` | P |
-| 14 | 3 jun | Teórica | Modelos de regresión espacial: SAR y SEM | `09_regresion_espacial.pdf` | — | |
-| 15 | 10 jun | Práctica | Implementación SAR, SEM y GWR en Python | — | `09_regresion_espacial.ipynb` | **H2 entrega** |
-| 16 | 17 jun | Teórica | GWR + integración de contenidos | `10_GWR.pdf` | — | |
-| 17 | 24 jun | Teórica | Preparación presentaciones | — | — | **T1 entrega** |
+| 14 | 3 jun | Teórica + Práctica | Spatial Feature Engineering (Parte 1): Map Matching — POIs cercanos, joins punto/polígono, tesselación H3 (Uber) | `10_feature_engineering_parte1.pdf` | `10_feature_engineering_parte1.ipynb` | P |
+| 15 | 10 jun | Teórica + Práctica | Spatial Feature Engineering (Parte 2): Map Synthesis — ring buffers, clustering (HDBSCAN) como feature | `10_feature_engineering_parte2.pdf` | `10_feature_engineering_parte2.ipynb` | **H2 entrega** |
+| 16 | 17 jun | Teórica + Práctica | GWR (tema extra, fuera del libro base) + integración de contenidos | `11_GWR.pdf` | `11_GWR.ipynb` | P |
+| 17 | 24 jun | — | Integración y preparación de presentaciones | — | — | **T1 entrega** |
 | 18 | 1 jul | Evaluación | Presentaciones orales + entrega informe final | — | — | **H3 entrega final** · T2 (voluntaria) |
 
 ---
