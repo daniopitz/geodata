@@ -21,14 +21,14 @@
 | 7 | 15 abr | Teórica + Práctica  |  Autocorrelacion Global y Local| [04_autocorrelacion_global.pdf](https://github.com/daniopitz/geodata/tree/main/04_autocorrelacion_global.pdf)| [04_autocorrelacion_global.ipynb](https://github.com/daniopitz/geodata/tree/main/04_autocorrelacion_global.ipynb) | P |
 | 8 | 22 abr | Teórica + Práctica  | Autocorrelación espacial local: I de Moran local, Gi y Gi* de Getis-Ord, hot spots y outliers (LISA) | [05_autocorrelacion_local.pdf](https://github.com/daniopitz/geodata/tree/main/05_autocorrelacion_local.pdf) | [05_autocorrelacion_local.ipynb](https://github.com/daniopitz/geodata/tree/main/05_autocorrelacion_local.ipynb) | P |
 | 9 | 29 abr | Teórica + Práctica | Desigualdad espacial: Gini, Theil, Lorenz, Moran y descomposiciones espaciales en Python | [06_desigualdad_espacial.pdf](https://github.com/daniopitz/geodata/tree/main/06_desigualdad_espacial.pdf) | [06_desigualdad_espacial.ipynb](https://github.com/daniopitz/geodata/tree/main/06_desigualdad_espacial.ipynb) | P |
-| 10 | 6 may | Teórica + Práctica | Clustering y regionalización: K-Means, AHC y AHC con restricción espacial (Queen, KNN) | [07_regionalizacion.pdf](https://github.com/daniopitz/geodata/tree/main/07_regionalizacion.pdf) | [07_regionalizacion.ipynb](https://github.com/daniopitz/geodata/tree/main/07_regionalizacion.ipynb) | **T1 entrega** |
+| 10 | 6 may | Teórica + Práctica | Clustering y regionalización: K-Means, AHC y AHC con restricción espacial (Queen, KNN) | [07_regionalizacion.pdf](https://github.com/daniopitz/geodata/tree/main/07_regionalizacion.pdf) | [07_regionalizacion.ipynb](https://github.com/daniopitz/geodata/tree/main/07_regionalizacion.ipynb) | P |
 | 11 | 13 may | Teórica + Práctica | Regresiones espaciales: SAR, SEM y GWR | [08_regresion_espacial.pdf](https://github.com/daniopitz/geodata/tree/main/08_regresion_espacial.pdf) | [08_regresion_espacial.ipynb](https://github.com/daniopitz/geodata/tree/main/08_regresion_espacial.ipynb) | P |
 | 12 | 20 may |  — | **Sin Clases Vacaciones**|  — | — |
 | 13 | 27 may | Práctica | Índices de desigualdad y regionalización en Python | [09_desigualdad.pdf](https://github.com/daniopitz/geodata/tree/main/09_desigualdad.pdf) | [09_desigualdad.ipynb](https://github.com/daniopitz/geodata/tree/main/09_desigualdad.ipynb)| P |
 | 14 | 3 jun | Teórica | Modelos de regresión espacial: SAR y SEM | `09_regresion_espacial.pdf` | — | |
 | 15 | 10 jun | Práctica | Implementación SAR, SEM y GWR en Python | — | `09_regresion_espacial.ipynb` | **H2 entrega** |
 | 16 | 17 jun | Teórica | GWR + integración de contenidos | `10_GWR.pdf` | — | |
-| 17 | 24 jun | Teórica | Preparación presentaciones | — | — | |
+| 17 | 24 jun | Teórica | Preparación presentaciones | — | — | **T1 entrega** |
 | 18 | 1 jul | Evaluación | Presentaciones orales + entrega informe final | — | — | **H3 entrega final** |
 
 ---
@@ -39,7 +39,7 @@
 |---|---|---|
 | H1 Proyecto | 8 abril | 15% del PF |
 | H2 Proyecto | 10 junio | 25% del PF |
-| T1 Tarea | 29 abril | 50% de T |
+| T1 Tarea | 24 junio | 50% de T |
 | T2 Tarea | 3 junio | 50% de T |
 | H3 + Informe final | 1 julio | 60% del PF |
 | Participación (P) | Semanas 2, 4, 5, 7, 10, 11, 13, 15 | mejores 5 de 8 |
