@@ -26,10 +26,10 @@
 | 12 | 20 may |  — | **Sin Clases Vacaciones**|  — | — |
 | 13 | 27 may | Práctica | Índices de desigualdad y regionalización en Python | [09_desigualdad.pdf](https://github.com/daniopitz/geodata/tree/main/09_desigualdad.pdf) | [09_desigualdad.ipynb](https://github.com/daniopitz/geodata/tree/main/09_desigualdad.ipynb)| P |
 | 14 | 3 jun | Teórica | Modelos de regresión espacial: SAR y SEM | `09_regresion_espacial.pdf` | — | **H2 entrega** |
-| 15 | 10 jun | Práctica | Implementación SAR, SEM y GWR en Python | — | `09_regresion_espacial.ipynb` | P |
+| 15 | 10 jun | Evaluación | Presentaciones orales + entrega informe final | — | — | **H3 entrega final** |
 | 16 | 17 jun | Teórica | GWR + integración de contenidos | `10_GWR.pdf` | — | |
 | 17 | 24 jun | Teórica | Preparación presentaciones | — | — | |
-| 18 | 1 jul | Evaluación | Presentaciones orales + entrega informe final | — | — | **H3 entrega final** |
+| 18 | 1 jul | — | — | — | — | |
 
 ---
 
@@ -41,7 +41,7 @@
 | H2 Proyecto | 13 mayo | 25% del PF |
 | T1 Tarea | 29 abril | 50% de T |
 | T2 Tarea | 3 junio | 50% de T |
-| H3 + Informe final | 1 julio | 60% del PF |
+| H3 + Informe final | 10 junio | 60% del PF |
 | Participación (P) | Semanas 2, 4, 5, 7, 10, 11, 13, 15 | mejores 5 de 8 |
 
 ---
