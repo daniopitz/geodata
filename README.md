@@ -24,7 +24,7 @@
 | 10 | 6 may | Teórica + Práctica | Clustering y regionalización: K-Means, AHC y AHC con restricción espacial (Queen, KNN) | [07_regionalizacion.pdf](https://github.com/daniopitz/geodata/tree/main/07_regionalizacion.pdf) | [07_regionalizacion.ipynb](https://github.com/daniopitz/geodata/tree/main/07_regionalizacion.ipynb) | P |
 | 11 | 13 may | Teórica + Práctica | Regresiones espaciales: SAR, SEM y GWR | [08_regresion_espacial.pdf](https://github.com/daniopitz/geodata/tree/main/08_regresion_espacial.pdf) | [08_regresion_espacial.ipynb](https://github.com/daniopitz/geodata/tree/main/08_regresion_espacial.ipynb) | P |
 | 12 | 20 may |  — | **Sin Clases Vacaciones**|  — | — |
-| 13 | 27 may | Práctica | Índices de desigualdad y regionalización en Python | [09_desigualdad.pdf](https://github.com/daniopitz/geodata/tree/main/09_desigualdad.pdf) | [09_desigualdad.ipynb](https://github.com/daniopitz/geodata/tree/main/09_desigualdad.ipynb)| P |
+| 13 | 27 may | Teórica + Práctica | Regresión espacial (Parte 2): modelos SAR y SEM | `09_regresion_espacial_parte2.pdf` | `09_regresion_espacial_parte2.ipynb` | P |
 | 14 | 3 jun | Teórica | Modelos de regresión espacial: SAR y SEM | `09_regresion_espacial.pdf` | — | |
 | 15 | 10 jun | Práctica | Implementación SAR, SEM y GWR en Python | — | `09_regresion_espacial.ipynb` | **H2 entrega** |
 | 16 | 17 jun | Teórica | GWR + integración de contenidos | `10_GWR.pdf` | — | |
