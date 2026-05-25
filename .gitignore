@@ -15,3 +15,7 @@ img/*
 # Entregas de estudiantes (privacidad: nunca al repo público)
 actividades/entregas/
 evaluacion_final/entrega*/
+
+# Archivos pesados de datos EOD (>100 MB, GitHub los rechaza)
+datos/external/eod_stgo/*.dbf
+datos/external/eod_stgo/*.geojson
