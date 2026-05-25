@@ -26,9 +26,9 @@
 | 12 | 20 may |  — | **Sin Clases Vacaciones**|  — | — |
 | 13 | 27 may | Teórica + Práctica | Regresión espacial (Parte 2): SEM, SAR y heterogeneidad espacial. *2do bloque: trabajo en T1.* | `09_regresion_espacial_parte2.pdf` | `09_regresion_espacial_parte2.ipynb` | |
 | 14 | 3 jun | Teórica + Práctica | Spatial Feature Engineering (Parte 1): Map Matching — POIs cercanos, joins punto/polígono, tesselación H3 (Uber). *2do bloque: trabajo en T1.* | `10_feature_engineering_parte1.pdf` | `10_feature_engineering_parte1.ipynb` | |
-| 15 | 10 jun | Teórica + Práctica | Spatial Feature Engineering (Parte 2): Map Synthesis — ring buffers, clustering (HDBSCAN) como feature. *2do bloque: trabajo en T1.* | `10_feature_engineering_parte2.pdf` | `10_feature_engineering_parte2.ipynb` | **H2 entrega** |
+| 15 | 10 jun | Teórica + Práctica | Spatial Feature Engineering (Parte 2): Map Synthesis — ring buffers, clustering (HDBSCAN) como feature. | `10_feature_engineering_parte2.pdf` | `10_feature_engineering_parte2.ipynb` | **H2 entrega** |
 | 16 | 17 jun | Teórica + Práctica | GWR (tema extra, fuera del libro base) + integración de contenidos. *2do bloque: trabajo en T1.* | `11_GWR.pdf` | `11_GWR.ipynb` | |
-| 17 | 24 jun | — | Integración y preparación de presentaciones | — | — | **T1 entrega** |
+| 17 | 24 jun | Evaluación | **Control individual T1** + integración y preparación de presentaciones | — | — | **T1 control · entrega notebook 23:59** |
 | 18 | 1 jul | Evaluación | Presentaciones orales + entrega informe final | — | — | **H3 entrega final** · T2 (voluntaria) |
 
 ---
@@ -39,7 +39,7 @@
 |---|---|---|
 | H1 Proyecto | 8 abril | 15% del PF |
 | H2 Proyecto | 10 junio | 25% del PF |
-| T1 Tarea | 24 junio | 50% de T |
+| T1 Tarea | 24 junio (control + entrega notebook 23:59) | 50% de T · interna: 60% notebook grupal + 40% control individual |
 | T2 Tarea (voluntaria) | 1 julio | 50% de T |
 | H3 + Informe final | 1 julio | 60% del PF |
 | Participación (P) | Semanas 2, 4, 5, 7, 8, 9, 10, 11 (actividades 01–08) | mejores 5 de 8 |

@@ -11,3 +11,7 @@ tarea/09_tarea1_solucion*.ipynb
 notas.xlsx
 *notas*.xlsx
 img/*
+
+# Entregas de estudiantes (privacidad: nunca al repo público)
+actividades/entregas/
+evaluacion_final/entrega*/
