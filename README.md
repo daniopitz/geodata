@@ -27,7 +27,7 @@
 | 13 | 27 may | Teórica + Práctica | Regresión espacial (Parte 2): tests LM, SEM, SAR y efectos directos/indirectos. *2do bloque: trabajo en T1.* | [09_regresion_espacial_parte2.pdf](https://github.com/daniopitz/geodata/tree/main/09_regresion_espacial_parte2.pdf) | [09_regresion_espacial_parte2.ipynb](https://github.com/daniopitz/geodata/tree/main/09_regresion_espacial_parte2.ipynb) | |
 | 14 | 3 jun | Teórica + Práctica | Spatial Feature Engineering (Parte 1): Map Matching — POIs cercanos, joins punto/polígono, tesselación H3 (Uber). *2do bloque: trabajo en T1.* | `10_feature_engineering_parte1.pdf` | `10_feature_engineering_parte1.ipynb` | |
 | 15 | 10 jun | Teórica + Práctica | Spatial Feature Engineering (Parte 2): Map Synthesis — ring buffers, clustering (HDBSCAN) como feature. | `10_feature_engineering_parte2.pdf` | `10_feature_engineering_parte2.ipynb` | **H2 entrega** |
-| 16 | 17 jun | Teórica + Práctica | GWR (tema extra, fuera del libro base) + integración de contenidos. *2do bloque: trabajo en T1.* | `11_GWR.pdf` | `11_GWR.ipynb` | |
+| 16 | 17 jun | Teórica + Práctica | GWR (tema extra, fuera del libro base) + integración de contenidos. *2do bloque: trabajo en T1.* | [11_gwr.pdf](https://github.com/daniopitz/geodata/tree/main/11_gwr.pdf) | [11_gwr.ipynb](https://github.com/daniopitz/geodata/tree/main/11_gwr.ipynb) | |
 | 17 | 24 jun | Evaluación | **Control individual T1** + integración y preparación de presentaciones | — | — | **T1 control · entrega notebook 23:59** |
 | 18 | 1 jul | Evaluación | Presentaciones orales + entrega informe final | — | — | **H3 entrega final** · T2 (voluntaria) |
 
