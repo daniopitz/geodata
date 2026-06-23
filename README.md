@@ -29,7 +29,7 @@
 | 15 | 10 jun | Presentación | Presentación proyecto (entrega 2): exposición de avance frente al curso. | — | — | **H2 entrega** |
 | 16 | 17 jun | Teórica + Práctica | GWR (tema extra, fuera del libro base) + integración de contenidos. *2do bloque: trabajo en T1.* | [11_gwr.pdf](https://github.com/daniopitz/geodata/tree/main/11_gwr.pdf) | [11_gwr.ipynb](https://github.com/daniopitz/geodata/tree/main/11_gwr.ipynb) | |
 | 17 | 24 jun | Evaluación | **Control individual T1** + preparación del póster | — | — | **Tarea: entrega notebook T1 (23:59)** · **Prueba: control individual** |
-| 18 | 1 jul | Evaluación | Sesión de pósters y defensa (proyecto final) | [Instrucciones (entrega 3)](https://github.com/daniopitz/geodata/tree/main/proyectofinal_entrega3.pdf) | — | **H3 entrega final (póster)** · T2 (voluntaria) |
+| 18 | 1 jul | Evaluación | Sesión de pósters y defensa (proyecto final) | [Instrucciones (entrega 3)](https://github.com/daniopitz/geodata/tree/main/evaluacion_final/entrega3/proyectofinal_entrega3.pdf) | — | **H3 entrega final (póster)** · T2 (voluntaria) |
 
 ---
 
