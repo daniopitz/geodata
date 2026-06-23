@@ -28,7 +28,7 @@
 | 14 | 3 jun | Teórica + Práctica | Spatial Feature Engineering: POIs cercanos, joins punto/polígono, ring buffers y construcción de features. *2do bloque: trabajo en T1.* | [10_feature_engineering.pdf](https://github.com/daniopitz/geodata/tree/main/10_feature_engineering.pdf) | [10_feature_engineering.ipynb](https://github.com/daniopitz/geodata/tree/main/10_feature_engineering.ipynb) | |
 | 15 | 10 jun | Presentación | Presentación proyecto (entrega 2): exposición de avance frente al curso. | — | — | **H2 entrega** |
 | 16 | 17 jun | Teórica + Práctica | GWR (tema extra, fuera del libro base) + integración de contenidos. *2do bloque: trabajo en T1.* | [11_gwr.pdf](https://github.com/daniopitz/geodata/tree/main/11_gwr.pdf) | [11_gwr.ipynb](https://github.com/daniopitz/geodata/tree/main/11_gwr.ipynb) | |
-| 17 | 24 jun | Evaluación | **Control individual T1** + integración y preparación del póster | — | — | **T1 control · entrega notebook 23:59** |
+| 17 | 24 jun | Evaluación | **Control individual T1** + preparación del póster | — | — | **Tarea: entrega notebook T1 (23:59)** · **Prueba: control individual** |
 | 18 | 1 jul | Evaluación | Sesión de pósters y defensa (proyecto final) | [Instrucciones (entrega 3)](https://github.com/daniopitz/geodata/tree/main/proyectofinal_entrega3.pdf) | — | **H3 entrega final (póster)** · T2 (voluntaria) |
 
 ---
