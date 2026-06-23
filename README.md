@@ -14,7 +14,7 @@
 |-----|-------|------|-----------|---------------|---------|------------|
 | 1 | 4 mar | Teórica | Introducción: datos espaciales, tipos (vector), sistemas de referencia, tablas y geopandas. Fuentes de datos para el proyecto. | [00_introduccion.pdf](https://github.com/daniopitz/geodata/tree/main/00_introduccion.pdf) | [00_introduccion.ipynb](https://github.com/daniopitz/geodata/tree/main/00_introduccion.ipynb) | |
 | 2 | 11 mar | Teórica + Práctica | Datos raster + matrices de pesos espaciales + práctica en Python | [01_datos_espaciales.pdf](https://github.com/daniopitz/geodata/tree/main/01_datos_espaciales.pdf) | [01_datos_espaciales.ipynb](https://github.com/daniopitz/geodata/tree/main/01_datos_espaciales.ipynb) | P |
-| 3 | 18 mar | — | **Sin clases — Semana Mechona** | — | — | |
+| 3 | 18 mar | — | **Sin clases: Semana Mechona** | — | — | |
 | 4 | 25 mar | Teórica + Práctica | Pesos Espaciales|[02_pesos_espaciales.pdf](https://github.com/daniopitz/geodata/tree/main/02_pesos_espaciales.pdf)| [02_pesos_espaciales.ipynb](https://github.com/daniopitz/geodata/tree/main/02_pesos_espaciales.ipynb) | P |
 | 5 | 1 abr | Teórica + Práctica | Visualización I: Mapas Coropleticos| [03_visualizacion.pdf](https://github.com/daniopitz/geodata/tree/main/03_visualizacion.pdf) | [03_visualizacion_parte1.ipynb](https://github.com/daniopitz/geodata/tree/main/03_visualizacion_parte1.ipynb) | P |
 | 6 | 8 abr | Presentación| Presentación avance proyecto  | Presentación avance proyecto| Presentación avance proyecto|**H1 entrega**  |
@@ -41,7 +41,7 @@
 | H2 Proyecto | 10 junio | 25% del PF |
 | T1 Tarea | 24 junio (control + entrega notebook 23:59) | 50% de T · interna: 60% notebook grupal + 40% control individual |
 | T2 Tarea (voluntaria) | 1 julio | 50% de T |
-| H3 + Informe final | 1 julio | 60% del PF |
+| H3 Proyecto (póster) | 1 julio | 60% del PF |
 | Participación (P) | Semanas 2, 4, 5, 7, 8, 9, 10, 11 (actividades 01–08) | mejores 5 de 8 |
 
 ---
